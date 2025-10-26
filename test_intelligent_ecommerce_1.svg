@@ -1,0 +1,24 @@
+<svg width="1200" height="1000" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.wireframe-border { fill: none; stroke: #333; stroke-width: 2; }
+.wireframe-text { font-family: Arial, sans-serif; font-size: 12px; fill: #333; }
+.wireframe-bg { fill: #f8f9fa; stroke: #333; stroke-width: 1; }
+.wireframe-accent { fill: #007bff; }
+</style>
+</defs>
+<g id="header-140700621974864"><rect x="0" y="0" width="1200" height="80" class="wireframe-border"/><text x="8" y="20" class="wireframe-text">Store Header</text></g>
+<g id="navigation-140700621974784"><rect x="0" y="80" width="1200" height="50" class="wireframe-border"/><text x="8" y="100" class="wireframe-text">Category Navigation</text></g>
+<g id="card-140700621974944"><rect x="20" y="146" width="278" height="378" class="wireframe-border"/><text x="28" y="166" class="wireframe-text">Product 1</text></g>
+<g id="card-140700621975024"><rect x="314" y="146" width="278" height="378" class="wireframe-border"/><text x="322" y="166" class="wireframe-text">Product 2</text></g>
+<g id="card-140700621975104"><rect x="608" y="146" width="278" height="378" class="wireframe-border"/><text x="616" y="166" class="wireframe-text">Product 3</text></g>
+<g id="card-140700621975184"><rect x="902" y="146" width="278" height="378" class="wireframe-border"/><text x="910" y="166" class="wireframe-text">Product 4</text></g>
+<g id="card-140700621975264"><rect x="20" y="540" width="278" height="378" class="wireframe-border"/><text x="28" y="560" class="wireframe-text">Product 5</text></g>
+<g id="card-140700621968144"><rect x="314" y="540" width="278" height="378" class="wireframe-border"/><text x="322" y="560" class="wireframe-text">Product 6</text></g>
+<g id="card-140700621969024"><rect x="608" y="540" width="278" height="378" class="wireframe-border"/><text x="616" y="560" class="wireframe-text">Product 7</text></g>
+<g id="card-140700621968944"><rect x="902" y="540" width="278" height="378" class="wireframe-border"/><text x="910" y="560" class="wireframe-text">Product 8</text></g>
+<g id="card-140700621969664"><rect x="20" y="934" width="278" height="378" class="wireframe-border"/><text x="28" y="954" class="wireframe-text">Product 9</text></g>
+<g id="card-140700621969744"><rect x="314" y="934" width="278" height="378" class="wireframe-border"/><text x="322" y="954" class="wireframe-text">Product 10</text></g>
+<g id="card-140700621969824"><rect x="608" y="934" width="278" height="378" class="wireframe-border"/><text x="616" y="954" class="wireframe-text">Product 11</text></g>
+<g id="card-140700621969904"><rect x="902" y="934" width="278" height="378" class="wireframe-border"/><text x="910" y="954" class="wireframe-text">Product 12</text></g>
+</svg>

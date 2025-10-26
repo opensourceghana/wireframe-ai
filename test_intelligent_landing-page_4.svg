@@ -1,0 +1,16 @@
+<svg width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.wireframe-border { fill: none; stroke: #333; stroke-width: 2; }
+.wireframe-text { font-family: Arial, sans-serif; font-size: 12px; fill: #333; }
+.wireframe-bg { fill: #f8f9fa; stroke: #333; stroke-width: 1; }
+.wireframe-accent { fill: #007bff; }
+</style>
+</defs>
+<g id="header-140700621974864"><rect x="0" y="0" width="1200" height="80" class="wireframe-border"/><text x="8" y="20" class="wireframe-text">Site Header</text></g>
+<g id="hero-140700621968144"><rect x="0" y="80" width="1200" height="400" class="wireframe-border"/><text x="8" y="100" class="wireframe-text">Hero Section</text></g>
+<g id="content-140700621968944"><rect x="20" y="496" width="1160" height="300" class="wireframe-border"/><text x="28" y="516" class="wireframe-text">Features Section</text></g>
+<g id="content-140700621969664"><rect x="20" y="812" width="1160" height="300" class="wireframe-border"/><text x="28" y="832" class="wireframe-text">Benefits Section</text></g>
+<g id="content-140700621969744"><rect x="20" y="1128" width="1160" height="300" class="wireframe-border"/><text x="28" y="1148" class="wireframe-text">Testimonials Section</text></g>
+<g id="footer-140700621969024"><rect x="0" y="1444" width="1200" height="120" class="wireframe-border"/><text x="8" y="1464" class="wireframe-text">Site Footer</text></g>
+</svg>

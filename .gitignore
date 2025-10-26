@@ -28,12 +28,15 @@ ENV/
 env.bak/
 venv.bak/
 
-# PyTorch models and cache
-models/
+# PyTorch models and cache (but allow Python model modules)
+/models/
 .cache/
 *.pth
 *.pt
 *.bin
+*.safetensors
+*.ckpt
+*.model
 
 # Environment variables
 .env
