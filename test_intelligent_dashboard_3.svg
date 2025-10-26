@@ -1,0 +1,13 @@
+<svg width="1440" height="900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.wireframe-border { fill: none; stroke: #333; stroke-width: 2; }
+.wireframe-text { font-family: Arial, sans-serif; font-size: 12px; fill: #333; }
+.wireframe-bg { fill: #f8f9fa; stroke: #333; stroke-width: 1; }
+.wireframe-accent { fill: #007bff; }
+</style>
+</defs>
+<g id="header-140700621974784"><rect x="0" y="0" width="1440" height="60" class="wireframe-border"/><text x="8" y="20" class="wireframe-text">Dashboard Header</text></g>
+<g id="sidebar-140700621975024"><rect x="0" y="60" width="250" height="840" class="wireframe-border"/><text x="8" y="80" class="wireframe-text">Navigation Sidebar</text></g>
+<g id="chart-140700621975104"><rect x="286" y="80" width="559" height="800" class="wireframe-border"/><text x="294" y="100" class="wireframe-text">Line Chart</text></g>
+</svg>

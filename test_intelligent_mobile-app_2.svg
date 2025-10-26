@@ -1,0 +1,13 @@
+<svg width="375" height="812" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.wireframe-border { fill: none; stroke: #333; stroke-width: 2; }
+.wireframe-text { font-family: Arial, sans-serif; font-size: 12px; fill: #333; }
+.wireframe-bg { fill: #f8f9fa; stroke: #333; stroke-width: 1; }
+.wireframe-accent { fill: #007bff; }
+</style>
+</defs>
+<g id="header-140700622506656"><rect x="0" y="0" width="375" height="44" class="wireframe-border"/><text x="8" y="20" class="wireframe-text">Status Bar</text></g>
+<g id="navigation-140700622506736"><rect x="0" y="44" width="375" height="56" class="wireframe-border"/><text x="8" y="64" class="wireframe-text">Navigation Header</text></g>
+<g id="content-140700622507216"><rect x="20" y="116" width="335" height="616" class="wireframe-border"/><text x="28" y="136" class="wireframe-text">Main Content</text></g>
+</svg>
