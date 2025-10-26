@@ -14,6 +14,13 @@ if ! command -v node &> /dev/null; then
     exit 1
 fi
 
+# Check if pnpm is installed, if not install it
+if ! command -v pnpm &> /dev/null; then
+    echo "📦 Installing pnpm for faster package management..."
+    curl -fsSL https://get.pnpm.io/install.sh | sh -
+    source ~/.bashrc
+fi
+
 echo "✅ Prerequisites check passed"
 
 # Setup backend
@@ -38,8 +45,8 @@ echo "✅ Backend setup complete"
 echo "📦 Setting up frontend..."
 cd ../frontend
 
-# Install Node.js dependencies
-npm install
+# Install Node.js dependencies with pnpm
+pnpm install
 
 echo "✅ Frontend setup complete"
 
@@ -59,6 +66,6 @@ echo "🎉 Setup complete!"
 echo ""
 echo "To start the application:"
 echo "1. Backend: cd backend && source venv/bin/activate && python main.py"
-echo "2. Frontend: cd frontend && npm run dev"
+echo "2. Frontend: cd frontend && pnpm run dev"
 echo ""
 echo "Then open http://localhost:3000 in your browser"

@@ -24,6 +24,7 @@ This project uses a hybrid approach combining:
 
 - Python 3.9+ with GPU support (recommended)
 - Node.js 18+
+- pnpm (for faster package management)
 - 16GB+ RAM for model inference
 
 ### Backend Setup
@@ -40,8 +41,8 @@ The backend will start on `http://localhost:8000`
 
 ```bash
 cd frontend
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 The frontend will start on `http://localhost:3000`
@@ -77,7 +78,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ### Frontend Development
 ```bash
 cd frontend
-npm run dev
+pnpm run dev
 ```
 
 ## Model Information
